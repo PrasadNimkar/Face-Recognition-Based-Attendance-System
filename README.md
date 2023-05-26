@@ -84,3 +84,10 @@ It will take some time(depends on you system).
 After training model click on Automatic Attendance ,you have to enter the subject name and then it can fill attendace by your face using our trained model.
 it will create .csv file for every subject you enter and seperate every .csv file accoriding the subject
 You can view the attendance after clicking View Attendance button. It will show record in tabular format.
+
+# Flow Chart
+
+![Flow chart Dec](https://github.com/PrasadNimkar/Face-Recognition-Based-Attendance-System/assets/83298007/ad0e986d-eba2-484c-a7a7-acd7f6699997)
+![FLow Chart](https://github.com/PrasadNimkar/Face-Recognition-Based-Attendance-System/assets/83298007/33671079-29cf-4552-b2e9-086c1754595f)
+![Block Diagram](https://github.com/PrasadNimkar/Face-Recognition-Based-Attendance-System/assets/83298007/81de54d9-8a06-4a70-b3c9-a1a6a4fb2ab5)
+![Flow chart basic](https://github.com/PrasadNimkar/Face-Recognition-Based-Attendance-System/assets/83298007/79962ce7-37a5-470b-9aeb-13f413afd652)
